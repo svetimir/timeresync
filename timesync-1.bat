@@ -1,0 +1,3 @@
+echo Time resync...
+w32tm /resync
+pause
